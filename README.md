@@ -5,7 +5,7 @@ _Система создания пользовательских игровых
 
 ### Ссылки
 * [Режимы](https://github.com/Bren828/Custom-Play-Hub#Режимы)
-* [Редактор](https://github.com/Bren828/Custom-Play-Hub#Редактор)
+* [Редактор](https://github.com/Bren828/Custom-Play-Hub#Редактоp)
 * [Опции](https://github.com/Bren828/Custom-Play-Hub#Опции)
 * [Информация](https://github.com/Bren828/Custom-Play-Hub#Стоимость)
 
