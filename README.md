@@ -3,6 +3,9 @@
 _Система создания пользовательских игровых лобби со встроенным редактором карт.
 Игроки могут создавать собственные карты для режимов: **Гонки, Deathmatch, Team Deathmatch, Counter-Strike, Дуэль и Дерби.**_
 
+_A system for creating custom game lobbies with a built-in map editor.
+Players can create their own maps for the following modes: Racing, Deathmatch, Team Deathmatch, Counter-Strike, Duel, and Derby._
+
 ### Ссылки
 * [Режимы](https://github.com/Bren828/Custom-Play-Hub#Режимы)
 * [Редактор](https://github.com/Bren828/Custom-Play-Hub#Редактоp)
