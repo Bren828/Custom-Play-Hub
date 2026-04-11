@@ -1,6 +1,6 @@
 # Custom-Play-Hub
 
-[English](README-EN.md) | [Русский](README.md)
+> [English](README-EN.md) | [Русский](README.md)
 
 _Система создания пользовательских игровых лобби со встроенным редактором карт.
 Игроки могут создавать собственные карты для режимов: **Гонки, Deathmatch, Team Deathmatch, Counter-Strike, Дуэль и Дерби.**_
