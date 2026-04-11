@@ -1,5 +1,7 @@
 # Custom-Play-Hub
 
+> [English](README.md) | [Русский](README.ru.md)
+
 _A system for creating custom game lobbies with a built-in map editor.
 Players can create their own maps for the following modes: **Race, Deathmatch, Team Deathmatch, Counter-Strike, Duel, and Derby.**_
 
