@@ -52,6 +52,7 @@ In racing mode, players compete against each other, trying to be the first to re
 - Players who finish earlier than others enter spectator mode.
 - A leaderboard is available to players, displaying current positions in the race.
 
+![Crosshair](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/main/rockets.gif)
 
 ### Deathmatch
 In Deathmatch mode, players fight each other in a free-for-all format, trying to get the highest number of kills.
@@ -389,4 +390,7 @@ Review server: IP: **185.223.168.92:7777**
 - pawnraknet 
 - pawnregex 
 - sscanf 
-- rustext
+- [rustext](https://github.com/ziggi/rustext)
+- [control hints](https://github.com/Bren828/control-hints)
+- [mdialog](https://github.com/Open-GTO/mdialog)
+- YSI\y_va (Optional)
