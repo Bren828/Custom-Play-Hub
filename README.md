@@ -368,7 +368,7 @@ After fulfilling all requirements, the project can be published via project opti
 
 ## Price
 
-Price: **80,000 RUB**
+Price: **50,000 RUB**
 
 Review server: IP: **185.223.168.92:7777**
 #### _For a full test, you need to install a mod for the game - [KeyListener](https://github.com/CyberMor/keylistener)_
