@@ -24,6 +24,11 @@ All lobbies created by players are displayed here.
 ## Playlists
 This section displays playlists created by players.
 Players can create their own playlists, add various projects to them, set a name and description, and make the playlist private.
+<details>
+<summary>Screenshot</summary>
+  
+![Screenshot](Сef/playlist.png)
+</details>
 
 ## Create
 In this section, players can create their own lobbies using ready-made projects published by other players.
@@ -35,10 +40,15 @@ In the editor, you can create your own game modes.
 Settings for various aspects of gameplay are available, including spawn points, vehicles, objects, pickups, NPCs, weapons, and much more.
 Tutorials for all modes and a guide on how to use the editor are provided.
 
+![Screenshot](Сef/lobby.png)
+![Screenshot](Сef/created.png)
+
+<details>
+<summary>TextDraw</summary>
+  
 ![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/menu-1.jpg)
 ![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/menu-2.jpg)
-
----
+</details>
 
 # Modes
 
