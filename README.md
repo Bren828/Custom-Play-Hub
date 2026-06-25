@@ -50,6 +50,8 @@ Tutorials for all modes and a guide on how to use the editor are provided.
 ![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/menu-2.jpg)
 </details>
 
+---
+
 # Modes
 
 ### Race
