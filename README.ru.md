@@ -105,7 +105,13 @@ _Взаимодействие с игровыми лобби осуществл�
 - Игрокам доступна таблица лидеров, отображающая текущие позиции.
 - Бомба автоматически сбрасывается, если игрок долго бездействует.
 
-![Скриншот](https://github.com/Bren828/Custom-Play-Hub/blob/main/kit.jpg)
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/Сef/kit.png)
+
+<details>
+<summary>TextDraw</summary>
+  
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/kit.jpg)
+</details>
 
 ### Экономика Counter-Strike
 Начисление денег за определенные действия в матче.
@@ -182,13 +188,24 @@ _Взаимодействие с игровыми лобби осуществл�
 _В редакторе доступны различные настройки игрового процесса, включая точки спавна, транспорт, объекты, пикапы и многое другое.
 Также в редакторе предусмотрено обучение по всем режимам и полное руководство по использованию._
 
+<details>
+<summary>Скриншот туториала</summary>
+  
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/tutorial.jpg)
+</details>
 
 ### Селектор элементов
 
 Это инструмент в редакторе режимов, который позволяет добавлять различные элементы в проект.
 В зависимости от выбранного режима в нём будут отображаться соответствующие элементы для добавления.
 
-![Скриншот](https://github.com/Bren828/Custom-Play-Hub/blob/main/selector.jpg)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/selector.jpg)
+
+<details>
+<summary>TextDraw</summary>
+
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/selector.jpg)
+</details>
 
 
 ### Контрольные точки
@@ -265,7 +282,13 @@ _В редакторе доступны различные настройки и
 - Ускорение транспорта — даёт кратковременное ускорение.
 - Ракета для транспорта — позволяет запускать ракеты с транспортного средства.
 
-![Скриншот](https://github.com/Bren828/Custom-Play-Hub/blob/main/pickup.png)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/pickup.jpg)
+
+<details>
+<summary>TextDraw</summary>
+
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/pickup.png)
+</details>
 
 ### NPC
 NPC используются для создания массовок и взаимодействия со стадиями лобби.
@@ -299,13 +322,25 @@ NPC используются для создания массовок и вза�
 - Игрок не может вернуть деньги за оружие, если оно было выдано бесплатно при спавне.
 - Игрок не может вернуть деньги за оружие, если оно было получено от другого игрока.
 
-![Скриншот](https://github.com/Bren828/Custom-Play-Hub/blob/main/store.png)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/store.jpg)
+
+<details>
+<summary>TextDraw</summary>
+  
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/store.png)
+</details>
 
 
 ### Таблица лидеров
 Таблица лидеров отображает лучших игроков, отсортированных по их результатам.
 
-![Скриншот](https://github.com/Bren828/Custom-Play-Hub/blob/main/table.png)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/table.png)
+
+<details>
+<summary>TextDraw</summary>
+  
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/table.png)
+</details>
 
 
 ### Теги
@@ -397,10 +432,14 @@ NPC используются для создания массовок и вза�
 ## Зависимости
 
 - ColAndreas
-- [KeyListener](https://github.com/CyberMor/keylistener) **обязательно!**
+- [KeyListener](https://github.com/CyberMor/keylistener) **Required!**
+- [Cef](https://github.com/zottce/samp-cef)
 - streamer 
 - mysql R41-4
 - pawnraknet 
 - pawnregex 
 - sscanf 
-- rustext
+- [rustext](https://github.com/ziggi/rustext)
+- [control hints](https://github.com/Bren828/control-hints)
+- [mdialog](https://github.com/Open-GTO/mdialog)
+- YSI\y_va
