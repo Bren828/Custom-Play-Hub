@@ -62,18 +62,11 @@ In racing mode, players compete against each other, trying to be the first to re
 - On the track, you can collect acceleration, vehicle repair, and jump pickups.
 - Rockets are available to attack opponents.
 - Players who finish earlier than others enter spectator mode.
-- A leaderboard is available to players, displaying current positions in the race.
 
 ![Crosshair](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/main/rockets.gif)
 
 ### Deathmatch
 In Deathmatch mode, players fight each other in a free-for-all format, trying to get the highest number of kills.
-
-#### Gameplay
-- A weapon store is available to players where they can choose the necessary weapons.
-- A leaderboard is available to players, displaying current positions in the match.
-- Assist system.
-
 
 ### Team Deathmatch
 In Team Deathmatch mode, players are divided into two teams — blue and red — and fight each other.
@@ -82,10 +75,6 @@ The team that first depletes the opponent's points to zero or maintains the high
 #### Gameplay
 - Each team is given a certain number of points at the beginning of the round (e.g., 200).
 - For every kill of an enemy player, 1 point is deducted from the opposing team.
-- A weapon store is available to players where they can choose the necessary weapons.
-- A leaderboard is available to players, displaying current positions in the match.
-- Assist system.
-
 
 ### Counter-Strike
 In Counter-Strike mode, players are divided into two teams: terrorists and counter-terrorists.
@@ -164,10 +153,6 @@ The goal is to win a certain number of rounds to win the match.
 #### Gameplay
 - Rounds last until one team wins or time expires.
 - Eliminated players enter spectator mode for their team.
-- A weapon store is available to players where they can choose the necessary weaponry.
-- A leaderboard is available to players, displaying current positions in the match.
-- Helmet mechanics, assists, round MVP, buy phase at the start of the round, side swapping at the midpoint of the match.
-
 
 ### Derby
 In Derby mode, players deal damage to each other using vehicles.
@@ -176,9 +161,7 @@ In Derby mode, players deal damage to each other using vehicles.
 - Each player has a limited number of lives.
 - Repair, acceleration, and rocket pickups can be scattered around the arena.
 - Players who lose all their lives are eliminated and enter spectator mode for the remaining participants.
-- A dash is available at the start of the derby, which accelerates the vehicle at launch.
 - Rockets are available to attack opponents.
-- A leaderboard is available to players, displaying current positions in the derby.
 
 ---
 
@@ -279,6 +262,7 @@ Each pickup has customizable properties.
 - Jump — launches the vehicle or player upwards.
 - Vehicle repair — restores a damaged vehicle.
 - Vehicle acceleration — gives a short-term speed boost.
+- Slow down transport - instantly slows down transport.
 - Vehicle rocket — allows launching rockets from the vehicle.
 
 ![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/pickup.jpg)
