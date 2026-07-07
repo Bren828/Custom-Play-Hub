@@ -187,7 +187,11 @@ In Derby mode, players deal damage to each other using vehicles.
 _Various gameplay settings are available in the editor, including spawn points, vehicles, objects, pickups, and much more.
 The editor also provides tutorials for all modes and a complete usage guide._
 
+<details>
+<summary>Screenshot of the tutorial</summary>
+  
 ![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/tutorial.jpg)
+</details>
 
 
 ### Element Selector
