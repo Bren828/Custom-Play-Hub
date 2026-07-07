@@ -104,7 +104,13 @@ In Counter-Strike mode, players are divided into two teams: terrorists and count
 - A leaderboard is available to players, displaying current positions.
 - The bomb is automatically dropped if a player is inactive for a long time.
 
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/Сef/kit.png)
+
+<details>
+<summary>TextDraw</summary>
+  
 ![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/kit.jpg)
+</details>
 
 ### Counter-Strike Economy
 Accrual of money for specific actions in the match.
@@ -181,14 +187,21 @@ In Derby mode, players deal damage to each other using vehicles.
 _Various gameplay settings are available in the editor, including spawn points, vehicles, objects, pickups, and much more.
 The editor also provides tutorials for all modes and a complete usage guide._
 
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/tutorial.jpg)
+
 
 ### Element Selector
 
 This is a tool in the mode editor that allows adding various elements to the project.
 Depending on the selected mode, corresponding elements for addition will be displayed.
 
-![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/selector.jpg)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/selector.jpg)
 
+<details>
+<summary>TextDraw</summary>
+
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/selector.jpg)
+</details>
 
 ### Checkpoints
 Checkpoints are used in racing mode to mark the route that players must follow.
@@ -264,7 +277,13 @@ Each pickup has customizable properties.
 - Vehicle acceleration — gives a short-term speed boost.
 - Vehicle rocket — allows launching rockets from the vehicle.
 
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/pickup.jpg)
+
+<details>
+<summary>TextDraw</summary>
+
 ![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/pickup.png)
+</details>
 
 ### NPC
 NPCs are used to create background crowds and interact with lobby stages.
@@ -298,14 +317,24 @@ The store assortment is configured in the project parameters.
 - A player cannot get a refund for a weapon if it was issued for free at spawn.
 - A player cannot get a refund for a weapon if it was received from another player.
 
-![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/store.png)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/store.jpg)
 
+<details>
+<summary>TextDraw</summary>
+  
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/store.png)
+</details>
 
 ### Leaderboard
 The leaderboard displays the best players, sorted by their results.
 
-![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/table.png)
+![Screenshot](https://raw.githubusercontent.com/Bren828/Custom-Play-Hub/refs/heads/main/%D0%A1ef/table.png)
 
+<details>
+<summary>TextDraw</summary>
+  
+![Screenshot](https://github.com/Bren828/Custom-Play-Hub/blob/main/table.png)
+</details>
 
 ### Tags
 Tags help other players find your project using specific keywords.
@@ -397,6 +426,7 @@ Review server: IP: **185.223.168.92:7777**
 
 - ColAndreas
 - [KeyListener](https://github.com/CyberMor/keylistener) **Required!**
+- [Cef](https://github.com/zottce/samp-cef)
 - streamer 
 - mysql R41-4
 - pawnraknet 
@@ -405,4 +435,4 @@ Review server: IP: **185.223.168.92:7777**
 - [rustext](https://github.com/ziggi/rustext)
 - [control hints](https://github.com/Bren828/control-hints)
 - [mdialog](https://github.com/Open-GTO/mdialog)
-- YSI\y_va (Optional)
+- YSI\y_va
